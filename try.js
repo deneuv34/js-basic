@@ -1,10 +1,10 @@
 try {
-  gakAdaFungsiIni();
-} catch (e) {
-  console.log ("Error: " + e.message);
+  gakAdaFungsiIni()
+} catch(e) {
+  console.log ("Error: " + e.message)
 } finally {
-  console.log ("Bagian 'pembersihan', akan dikerjakan, apapun yang terjadi");
-};
+  console.log ("Bagian 'pembersihan', akan dikerjakan, apapun yang terjadi")
+}
 
 // hasil:
 // Error: gakAdaFungsiIni is not defined
