@@ -1,19 +1,17 @@
-function induk() {
-
-  var awal = 0;
-  function tambahkan() {
-    awal++;
+function induk () {
+  var awal = 0
+  function tambahkan () {
+    awal++
   }
 
-  tambahkan();
-  tambahkan();
-  
-  console.log('Nilai = ' + awal);
+  tambahkan()
+  tambahkan()
 
+  console.log('Nilai = ' + awal)
 }
 
-induk();
-tambahkan();
+induk()
+tambahkan()
 
 // hasil:
 // Nilai = 2
