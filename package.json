@@ -1,0 +1,27 @@
+{
+  "name": "js-basic",
+  "version": "0.1.0",
+  "description": "latihan saja",
+  "main": "array.js",
+  "dependencies": {
+    "eslint": "^3.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deneuv34/js-basic.git"
+  },
+  "keywords": [
+    "eslint",
+    "practice"
+  ],
+  "author": "deneuv34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deneuv34/js-basic/issues"
+  },
+  "homepage": "https://github.com/deneuv34/js-basic#readme"
+}
