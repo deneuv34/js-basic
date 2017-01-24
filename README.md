@@ -59,4 +59,7 @@ untuk menampilkan pilihan dari berbagai kondisi dari answer yang diinput oleh us
 throw merupakan suatu statment untuk memberhentikan suatu fungsi dan hasil terakhir yang didapatkan akan disimpan dengan fungsi catch
 
 ##try.js
+dalam code ini try ini berfungsi untuk menjalankan fungsi 'gakadaFungsiIni', dalam fungsi tersebut kosong. maka funsi tersebut di kembalikan pada variabel e dan di selesai pada bagian finaly dengan menampilkan e dan memberi tahu bahwa fungsi tersebut undefined lalu bagian pembersih akan membersihkan apa pun dikerjakan dan yang terjadi
 
+##While.js
+dalam code while.js di sini merupakan perulangan untuk menampilkan nilai n, dan x dimana dalam perulangan tersebut di ulang selama n lebih kecil dari x. dalam perulangan tesebut terjadi perhitungan di mana n + 1 dan x + x terus hingga selesai pada kondisi dimana n lebih kecil dari x
